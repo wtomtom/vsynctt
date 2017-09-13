@@ -3,19 +3,19 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Vsync</source>
-        <translation>Über Vsync</translation>
+        <source>About tom</source>
+        <translation>Über tom</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Vsync&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Vsync&lt;/b&gt; Version</translation>
+        <source>&lt;b&gt;tom&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;tom&lt;/b&gt; Version</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Vsync developers</source>
+Copyright © 2014 The tom developers</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -63,8 +63,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Vsync addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Das sind Ihre Vsync Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer Sie bezahlt.</translation>
+        <source>These are your tom addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Das sind Ihre tom Adressen um Zahlungen zu erhalten. Sie werden vielleicht verschiedene an jeden Sender vergeben, damit Sie im Auge behalten können wer Sie bezahlt.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -78,8 +78,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Vsync address</source>
-        <translation>Signieren Sie eine Nachricht um zu beweisen, dass Sie eine Vsync Adresse besitzen</translation>
+        <source>Sign a message to prove you own a tom address</source>
+        <translation>Signieren Sie eine Nachricht um zu beweisen, dass Sie eine tom Adresse besitzen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -93,8 +93,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Vsync address</source>
-        <translation>Verifizieren Sie ob eine Nachricht einer bestimmten Vsync Adresse signiert wurde</translation>
+        <source>Verify a message to ensure it was signed with a specified tom address</source>
+        <translation>Verifizieren Sie ob eine Nachricht einer bestimmten tom Adresse signiert wurde</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -261,8 +261,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+82"/>
-        <source>Vsync will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Vsync wird sich schließen um den Verschlüsselungsvorgang abzuschließen. Beachten Sie, dass die Verschlüsselung Ihrer Wallet keinen vollständigen Schutz vor Diebstahl Ihrer Coins duch auf Ihrem Computer installierte Malware gewährleistet</translation>
+        <source>tom will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>tom wird sich schließen um den Verschlüsselungsvorgang abzuschließen. Beachten Sie, dass die Verschlüsselung Ihrer Wallet keinen vollständigen Schutz vor Diebstahl Ihrer Coins duch auf Ihrem Computer installierte Malware gewährleistet</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -355,8 +355,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Vsync</source>
-        <translation>Informationen über Vsync anzeigen</translation>
+        <source>Show information about tom</source>
+        <translation>Informationen über tom anzeigen</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -395,13 +395,13 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Vsync address</source>
-        <translation>Senden Sie Coins an eine Vsync Adresse</translation>
+        <source>Send coins to a tom address</source>
+        <translation>Senden Sie Coins an eine tom Adresse</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Vsync</source>
-        <translation>Konfigurationsoptionen für Vsync ändern</translation>
+        <source>Modify configuration options for tom</source>
+        <translation>Konfigurationsoptionen für tom ändern</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -441,8 +441,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Vsync</source>
-        <translation>Vsync</translation>
+        <source>tom</source>
+        <translation>tom</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -451,8 +451,8 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Vsync</source>
-        <translation>&amp;Über Vsync</translation>
+        <source>&amp;About tom</source>
+        <translation>&amp;Über tom</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -503,13 +503,13 @@ Dieses Produkt enthält Software, die vom OpenSSL-Projekt zur Verwendung im Open
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Vsync client</source>
-        <translation>Vsync Anwendung</translation>
+        <source>tom client</source>
+        <translation>tom Anwendung</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Vsync network</source>
-        <translation><numerusform>%n aktive Verbindung zum Vsync Netzwerk</numerusform><numerusform>%n aktive Verbindungen zum Vsync Netzwerk</numerusform></translation>
+        <source>%n active connection(s) to tom network</source>
+        <translation><numerusform>%n aktive Verbindung zum tom Netzwerk</numerusform><numerusform>%n aktive Verbindungen zum tom Netzwerk</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -602,8 +602,8 @@ Adresse: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Vsync address or malformed URI parameters.</source>
-        <translation>Die URI kann nicht erkannt werden! Die Ursache hierfür kann eine ungültige Vsync Adresse oder eine fehlerhafte Angabe der URI Parameter sein.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid tom address or malformed URI parameters.</source>
+        <translation>Die URI kann nicht erkannt werden! Die Ursache hierfür kann eine ungültige tom Adresse oder eine fehlerhafte Angabe der URI Parameter sein.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -726,8 +726,8 @@ Adresse: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Vsync can no longer continue safely and will quit.</source>
-        <translation>Ein fataler Fehler ist aufgetreten. Vsync kann nicht fortgesetzt werden und wird beendet.</translation>
+        <source>A fatal error occurred. tom can no longer continue safely and will quit.</source>
+        <translation>Ein fataler Fehler ist aufgetreten. tom kann nicht fortgesetzt werden und wird beendet.</translation>
     </message>
 </context>
 <context>
@@ -992,8 +992,8 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Vsync address.</source>
-        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige Vsync Adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid tom address.</source>
+        <translation>Die eingegebene Adresse &quot;%1&quot; ist keine gültige tom Adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1011,8 +1011,8 @@ Adresse: %4</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Vsync-Qt</source>
-        <translation>Vsync-Qt
+        <source>tom-Qt</source>
+        <translation>tom-Qt
 </translation>
     </message>
     <message>
@@ -1085,13 +1085,13 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Vsync after logging in to the system.</source>
-        <translation>Automatisch Vsync starten beim Einloggen in das System.</translation>
+        <source>Automatically start tom after logging in to the system.</source>
+        <translation>Automatisch tom starten beim Einloggen in das System.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Vsync on system login</source>
-        <translation>&amp;Starte Vsync bei Systemstart</translation>
+        <source>&amp;Start tom on system login</source>
+        <translation>&amp;Starte tom bei Systemstart</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1100,8 +1100,8 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Vsync client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatisch den Vsync client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
+        <source>Automatically open the tom client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatisch den tom client port auf dem Router öffnen. Das funktioniert nur wenn der Router UPnP unterstützt und UPnP aktiviert ist.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1130,7 +1130,7 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Vsync network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the tom network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1175,7 +1175,7 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Vsync.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting tom.</source>
         <translation>Die Sprache der GUI kann hier verändert werden. Die Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1186,7 +1186,7 @@ Adresse: %4</translation>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Wählen Sie die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von Vsyncs angezeigt werden soll.</translation>
+        <translation>Wählen Sie die Standarduntereinheit, die in der Benutzeroberfläche und beim Überweisen von toms angezeigt werden soll.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1201,7 +1201,7 @@ Adresse: %4</translation>
     <message>
         <location line="+7"/>
         <source>Use black visual theme (requires restart)</source>
-        <translation>Verwende das schwarze Vsync Wallet Design (Neustart erforderlich)</translation>
+        <translation>Verwende das schwarze tom Wallet Design (Neustart erforderlich)</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1232,7 +1232,7 @@ Adresse: %4</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Vsync.</source>
+        <source>This setting will take effect after restarting tom.</source>
         <translation>Diese Einstellung wird nach einem Neustart übernommen.</translation>
     </message>
     <message>
@@ -1251,8 +1251,8 @@ Adresse: %4</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Vsync network after a connection is established, but this process has not completed yet.</source>
-        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem Vsync Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the tom network after a connection is established, but this process has not completed yet.</source>
+        <translation>Die angezeigte Information kann falsch sein. Die Brieftasche synchronisiert automatisch mit dem tom Netzwerk nachdem eine Verbindung zustande gekommen ist, aber dieser Prozess ist nicht abgeschlossen.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1325,7 +1325,7 @@ Adresse: %4</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start vsync: click-to-pay handler</source>
+        <source>Cannot start tom: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1495,7 +1495,7 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Vsync-Qt help message to get a list with possible Vsync command-line options.</source>
+        <source>Show the tom-Qt help message to get a list with possible tom command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1515,13 +1515,13 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Vsync - Debug window</source>
-        <translation>Vsync - Debug Fenster</translation>
+        <source>tom - Debug window</source>
+        <translation>tom - Debug Fenster</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Vsync Core</source>
-        <translation>Vsync Kern</translation>
+        <source>tom Core</source>
+        <translation>tom Kern</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1530,8 +1530,8 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Vsync debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Offne die Vsync Fehlerlogs aus dem Datenverzeichnis. Diese Funktion kann bei größeren Log-Files länger benötigen.</translation>
+        <source>Open the tom debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Offne die tom Fehlerlogs aus dem Datenverzeichnis. Diese Funktion kann bei größeren Log-Files länger benötigen.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1540,8 +1540,8 @@ Adresse: %4</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-28"/>
-        <source>Welcome to the Vsync RPC console.</source>
-        <translation>Willkommen zur Vsync RPC Anwendung.</translation>
+        <source>Welcome to the tom RPC console.</source>
+        <translation>Willkommen zur tom RPC Anwendung.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1712,7 +1712,7 @@ Adresse: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-171"/>
-        <source>Enter a Vsync address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a tom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation>Empfängeradresse (z.b. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
@@ -1807,8 +1807,8 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="+241"/>
-        <source>WARNING: Invalid Vsync address</source>
-        <translation>Warnung: Ungültige Vsync Adresse</translation>
+        <source>WARNING: Invalid tom address</source>
+        <translation>Warnung: Ungültige tom Adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1881,7 +1881,7 @@ Adresse: %4</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Vsync address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a tom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation>Empfängeradresse (z.b. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
@@ -1942,8 +1942,8 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Vsync address</source>
-        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser Vsync Adresse bist.</translation>
+        <source>Sign the message to prove you own this tom address</source>
+        <translation>Signiere die Nachricht um zu beweisen das du Besitzer dieser tom Adresse bist.</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -1974,7 +1974,7 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Vsync address</source>
+        <source>Verify the message to ensure it was signed with the specified tom address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1985,7 +1985,7 @@ Adresse: %4</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Vsync address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a tom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation>Empfängeradresse (z.b. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
@@ -1995,8 +1995,8 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Vsync signature</source>
-        <translation>Vsync Signatur eingeben</translation>
+        <source>Enter tom signature</source>
+        <translation>tom Signatur eingeben</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2574,8 +2574,8 @@ Adresse: %4</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+8"/>
-        <source>Vsync version</source>
-        <translation>Vsync Version</translation>
+        <source>tom version</source>
+        <translation>tom Version</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2584,8 +2584,8 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or vsyncd</source>
-        <translation>Kommando versenden an -server oder vsyncd </translation>
+        <source>Send command to -server or tomd</source>
+        <translation>Kommando versenden an -server oder tomd </translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2604,13 +2604,13 @@ Adresse: %4</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: vsync.conf)</source>
-        <translation>Konfigurationsdatei angeben (Standard: vsync.conf)</translation>
+        <source>Specify configuration file (default: tom.conf)</source>
+        <translation>Konfigurationsdatei angeben (Standard: tom.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: vsyncd.pid)</source>
-        <translation>PID Datei angeben (Standard: vsync.pid)</translation>
+        <source>Specify pid file (default: tomd.pid)</source>
+        <translation>PID Datei angeben (Standard: tom.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2627,13 +2627,13 @@ Adresse: %4</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=vsyncrpc
+rpcuser=tomrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;tom Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2734,8 +2734,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+46"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Vsync will not work properly.</source>
-        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist wird Vsync nicht richtig funktionieren.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong tom will not work properly.</source>
+        <translation>Wanung : Bitte prüfen Sie ob Datum und Uhrzeit richtig eingestellt sind. Wenn das Datum falsch ist wird tom nicht richtig funktionieren.</translation>
     </message>
     <message>
         <location line="-19"/>
@@ -3029,7 +3029,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Vsync is shutting down.</source>
+        <source>Initialization sanity check failed. tom is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3084,13 +3084,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Vsync</source>
-        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der Vsync Brieftasche.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of tom</source>
+        <translation>Fehler beim Laden wallet.dat. Brieftasche benötigt neuere Version der tom Brieftasche.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Vsync to complete</source>
-        <translation>Brieftasche muss neu geschrieben werden. Starte die Vsync Brieftasche neu zum komplettieren.</translation>
+        <source>Wallet needed to be rewritten: restart tom to complete</source>
+        <translation>Brieftasche muss neu geschrieben werden. Starte die tom Brieftasche neu zum komplettieren.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3149,7 +3149,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+131"/>
-        <source>Unable to bind to %s on this computer. Vsync is probably already running.</source>
+        <source>Unable to bind to %s on this computer. tom is probably already running.</source>
         <translation>Fehler beim anbinden %s auf diesem Computer. BlaclCoin Client läuft wahrscheinlich bereits.</translation>
     </message>
     <message>
@@ -3179,7 +3179,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Vsync is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. tom is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Vsync</source>
-        <translation>O Vsync</translation>
+        <source>About tom</source>
+        <translation>O tom</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Vsync&lt;/b&gt; version</source>
-        <translation>Verzia &lt;b&gt;Vsync&lt;/b&gt;</translation>
+        <source>&lt;b&gt;tom&lt;/b&gt; version</source>
+        <translation>Verzia &lt;b&gt;tom&lt;/b&gt;</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Vsync developers</source>
+Copyright © 2014 The tom developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Vsync developers</translation>
+Copyright © 2014 The tom developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Vsync addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Toto sú vaše Vsync adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
+        <source>These are your tom addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Toto sú vaše tom adresy pre príjem platieb. Možno budete chcieť dať inú každému odosielateľovi, aby ste mohli sledovať, kto Vám platí.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -80,8 +80,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Vsync address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Vsync adresu</translation>
+        <source>Sign a message to prove you own a tom address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto tom adresu</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Vsync address</source>
-        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou Vsync adresou</translation>
+        <source>Verify a message to ensure it was signed with a specified tom address</source>
+        <translation>Overte správu, aby ste zabezpečili, že bola podpísaná s určitou tom adresou</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+82"/>
-        <source>Vsync will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Vsync sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom, ktorý napadol váš počítač.</translation>
+        <source>tom will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>tom sa teraz zavrie aby dokončil proces zašifrovania. Nezabudnite, že zašifrovanie vašej peňaženky nemôže plne chrániť vaše mince pred krádežou malwarom, ktorý napadol váš počítač.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -357,8 +357,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Vsync</source>
-        <translation>Zobraziť informácie o Vsync</translation>
+        <source>Show information about tom</source>
+        <translation>Zobraziť informácie o tom</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -397,13 +397,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Vsync address</source>
-        <translation>Poslať mince na Vsync adresu</translation>
+        <source>Send coins to a tom address</source>
+        <translation>Poslať mince na tom adresu</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Vsync</source>
-        <translation>Upraviť možnosti konfigurácie pre Vsync</translation>
+        <source>Modify configuration options for tom</source>
+        <translation>Upraviť možnosti konfigurácie pre tom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -443,8 +443,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Vsync</source>
-        <translation>Vsync</translation>
+        <source>tom</source>
+        <translation>tom</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -453,8 +453,8 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Vsync</source>
-        <translation>&amp;O Vsync</translation>
+        <source>&amp;About tom</source>
+        <translation>&amp;O tom</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -505,13 +505,13 @@ Tento produkt obsahuje softvér vyvinutý projektom OpenSSL Project pre použiti
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Vsync client</source>
-        <translation>Vsync klient</translation>
+        <source>tom client</source>
+        <translation>tom klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Vsync network</source>
-        <translation><numerusform>%n aktívne spojenie s Vsync sieťov</numerusform><numerusform>%n aktívnych spojení s Vsync sieťov</numerusform><numerusform>%n aktívnych spojení s Vsync sieťou</numerusform></translation>
+        <source>%n active connection(s) to tom network</source>
+        <translation><numerusform>%n aktívne spojenie s tom sieťov</numerusform><numerusform>%n aktívnych spojení s tom sieťov</numerusform><numerusform>%n aktívnych spojení s tom sieťou</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -604,8 +604,8 @@ Adresa: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Vsync address or malformed URI parameters.</source>
-        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou Vsync adresu alebo chybnými URI parametrami.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid tom address or malformed URI parameters.</source>
+        <translation>URI nemožno analyzovať! Toto môže byť spôsobené neplatnou tom adresu alebo chybnými URI parametrami.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -727,8 +727,8 @@ Adresa: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Vsync can no longer continue safely and will quit.</source>
-        <translation>Došlo k závažnej chybe. Vsync už nemôže pokračovať bezpečne a bude ukončený.</translation>
+        <source>A fatal error occurred. tom can no longer continue safely and will quit.</source>
+        <translation>Došlo k závažnej chybe. tom už nemôže pokračovať bezpečne a bude ukončený.</translation>
     </message>
 </context>
 <context>
@@ -1003,8 +1003,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Vsync address.</source>
-        <translation>Zadaná adresa &quot;%1&quot; nie je platnou Vsync adresou.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid tom address.</source>
+        <translation>Zadaná adresa &quot;%1&quot; nie je platnou tom adresou.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1022,8 +1022,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Vsync-Qt</source>
-        <translation>Vsync-Qt</translation>
+        <source>tom-Qt</source>
+        <translation>tom-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1095,13 +1095,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Vsync after logging in to the system.</source>
-        <translation>Automaticky spustiť Vsync po prihlásení sa do systému.</translation>
+        <source>Automatically start tom after logging in to the system.</source>
+        <translation>Automaticky spustiť tom po prihlásení sa do systému.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Vsync on system login</source>
-        <translation>&amp;Spustiť Vsync pri prihlásení do systému</translation>
+        <source>&amp;Start tom on system login</source>
+        <translation>&amp;Spustiť tom pri prihlásení do systému</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1110,8 +1110,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Vsync client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automaticky otvoriť port klienta Vsync na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
+        <source>Automatically open the tom client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automaticky otvoriť port klienta tom na routeri. To funguje iba vtedy, ak váš router podporuje UPnP a je povolené.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1140,8 +1140,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Vsync network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
-        <translation>Pripojiť k sieti Vsync cez SOCKS5 proxy (napr. pri pripojení cez Tor).</translation>
+        <source>Connect to the tom network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <translation>Pripojiť k sieti tom cez SOCKS5 proxy (napr. pri pripojení cez Tor).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1185,8 +1185,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Vsync.</source>
-        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní Vsync.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting tom.</source>
+        <translation>Tu môžete nastaviť jazyk používateľského rozhrania. Toto nastavenie sa prejaví až po reštartovaní tom.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1242,8 +1242,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Vsync.</source>
-        <translation>Toto nastavenie sa prejaví až po reštartovaní Vsync.</translation>
+        <source>This setting will take effect after restarting tom.</source>
+        <translation>Toto nastavenie sa prejaví až po reštartovaní tom.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1261,8 +1261,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Vsync network after a connection is established, but this process has not completed yet.</source>
-        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou Vsync po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the tom network after a connection is established, but this process has not completed yet.</source>
+        <translation>Zobrazené informácie môžu byť zastaralé. Vaša peňaženka sa automaticky synchronizuje so sieťou tom po nadviazaní spojenia, ale tento proces nie je ešte dokončený.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1335,8 +1335,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start vsync: click-to-pay handler</source>
-        <translation>Vsync sa nedá spustiť: click-to-pay handler</translation>
+        <source>Cannot start tom: click-to-pay handler</source>
+        <translation>tom sa nedá spustiť: click-to-pay handler</translation>
     </message>
 </context>
 <context>
@@ -1505,8 +1505,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Vsync-Qt help message to get a list with possible Vsync command-line options.</source>
-        <translation>Zobraziť Vsync-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku Vsync.</translation>
+        <source>Show the tom-Qt help message to get a list with possible tom command-line options.</source>
+        <translation>Zobraziť tom-Qt nápovedu k získaniu zoznamu pre možnosti  príkazového riadku tom.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1525,13 +1525,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Vsync - Debug window</source>
-        <translation>Vsync - Ladiace okno</translation>
+        <source>tom - Debug window</source>
+        <translation>tom - Ladiace okno</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Vsync Core</source>
-        <translation>Jadro Vsync</translation>
+        <source>tom Core</source>
+        <translation>Jadro tom</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1540,8 +1540,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Vsync debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte Vsync súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <source>Open the tom debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Otvorte tom súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1550,8 +1550,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-28"/>
-        <source>Welcome to the Vsync RPC console.</source>
-        <translation>Vitajte v konzole Vsync RPC.</translation>
+        <source>Welcome to the tom RPC console.</source>
+        <translation>Vitajte v konzole tom RPC.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1721,8 +1721,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-171"/>
-        <source>Enter a Vsync address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte Vsync adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte tom adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1816,8 +1816,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+241"/>
-        <source>WARNING: Invalid Vsync address</source>
-        <translation>UPOZORNENIE: Neplatná Vsync adresa</translation>
+        <source>WARNING: Invalid tom address</source>
+        <translation>UPOZORNENIE: Neplatná tom adresa</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1890,8 +1890,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Vsync address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte Vsync adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte tom adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1951,8 +1951,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Vsync address</source>
-        <translation>Podpísať správu ako dôkaz, že vlastníte túto Vsync adresu</translation>
+        <source>Sign the message to prove you own this tom address</source>
+        <translation>Podpísať správu ako dôkaz, že vlastníte túto tom adresu</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -1983,8 +1983,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Vsync address</source>
-        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou Vsync adresou</translation>
+        <source>Verify the message to ensure it was signed with the specified tom address</source>
+        <translation>Overte správu, aby ste sa ubezpečili, že bola podpísaná s danou tom adresou</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -1994,8 +1994,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Vsync address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Zadajte Vsync adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Zadajte tom adresu (napr. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2004,8 +2004,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Vsync signature</source>
-        <translation>Zadajte Vsync podpis</translation>
+        <source>Enter tom signature</source>
+        <translation>Zadajte tom podpis</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2583,8 +2583,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+8"/>
-        <source>Vsync version</source>
-        <translation>Verzia Vsync</translation>
+        <source>tom version</source>
+        <translation>Verzia tom</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2593,8 +2593,8 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or vsyncd</source>
-        <translation>Pošli príkaz na -server alebo vsyncd</translation>
+        <source>Send command to -server or tomd</source>
+        <translation>Pošli príkaz na -server alebo tomd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2613,13 +2613,13 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: vsync.conf)</source>
-        <translation>Zadajte konfiguračný súbor (predvolené: vsync.conf)</translation>
+        <source>Specify configuration file (default: tom.conf)</source>
+        <translation>Zadajte konfiguračný súbor (predvolené: tom.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: vsyncd.pid)</source>
-        <translation>Zadajte pid súbor (predvolené: vsyncd.pid)</translation>
+        <source>Specify pid file (default: tomd.pid)</source>
+        <translation>Zadajte pid súbor (predvolené: tomd.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2636,24 +2636,24 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=vsyncrpc
+rpcuser=tomrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;tom Alert&quot; admin@foo.com
 </source>
         <translation>%s, musíte nastaviť rpcpassword v konfiguračnom súbore:
 %s
 Doporučuje sa použiť nasledovné náhodne heslo:
-rpcuser=vsyncrpc
+rpcuser=tomrpc
 rpcpassword=%s
 (toto heslo si nemusíte pamätať)
 Užívateľské meno a heslo NESMIE byť rovnaké.
 Ak súbor neexistuje, vytvorte ho s právami &quot;môže čítať iba vlastník&quot;.
 Odporúča sa tiež nastaviť &quot;alertnotify&quot;, takže budete upozornení na problémy,
-napríklad: alertnotify=echo %%s | mail -s &quot;Vsync upozornenie&quot; admin@foo.com
+napríklad: alertnotify=echo %%s | mail -s &quot;tom upozornenie&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2753,8 +2753,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Vsync upozornenie&quot; admin@f
     </message>
     <message>
         <location line="+46"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Vsync will not work properly.</source>
-        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny Vsync nebude pracovať správne.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong tom will not work properly.</source>
+        <translation>Upozornenie: Skontrolujte, že dátum a čas počítača sú správne! Ak je Váš čas nesprávny tom nebude pracovať správne.</translation>
     </message>
     <message>
         <location line="-19"/>
@@ -3048,8 +3048,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Vsync upozornenie&quot; admin@f
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Vsync is shutting down.</source>
-        <translation>Úvodné kontrolné testy zlyhali. Vsync sa teraz zatvori.</translation>
+        <source>Initialization sanity check failed. tom is shutting down.</source>
+        <translation>Úvodné kontrolné testy zlyhali. tom sa teraz zatvori.</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -3103,13 +3103,13 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Vsync upozornenie&quot; admin@f
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Vsync</source>
-        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu Vsync</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of tom</source>
+        <translation>Chyba pri načítaní wallet.dat: Peňaženka vyžaduje novšiu verziu tom</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Vsync to complete</source>
-        <translation>Peňaženka potrebuje byť prepísaná: reštartujte Vsync k dokončeniu</translation>
+        <source>Wallet needed to be rewritten: restart tom to complete</source>
+        <translation>Peňaženka potrebuje byť prepísaná: reštartujte tom k dokončeniu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3168,8 +3168,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Vsync upozornenie&quot; admin@f
     </message>
     <message>
         <location line="+131"/>
-        <source>Unable to bind to %s on this computer. Vsync is probably already running.</source>
-        <translation>Nemôžem sa pripojiť na %s na tomto počítači. Vsync je pravdepodobne už beží.</translation>
+        <source>Unable to bind to %s on this computer. tom is probably already running.</source>
+        <translation>Nemôžem sa pripojiť na %s na tomto počítači. tom je pravdepodobne už beží.</translation>
     </message>
     <message>
         <location line="-108"/>
@@ -3198,8 +3198,8 @@ napríklad: alertnotify=echo %%s | mail -s &quot;Vsync upozornenie&quot; admin@f
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Vsync is probably already running.</source>
-        <translation>Nedá sa zamknúť dátová zložka %s. Vsync je pravdepodobne už spustený</translation>
+        <source>Cannot obtain a lock on data directory %s. tom is probably already running.</source>
+        <translation>Nedá sa zamknúť dátová zložka %s. tom je pravdepodobne už spustený</translation>
     </message>
     <message>
         <location line="+4"/>

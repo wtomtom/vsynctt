@@ -50,12 +50,12 @@ bool AppInit(int argc, char* argv[])
         if (mapArgs.count("-?") || mapArgs.count("--help"))
         {
             // First part of help message is specific to bitcoind / RPC client
-            std::string strUsage = _("Vsync version") + " " + FormatFullVersion() + "\n\n" +
+            std::string strUsage = _("tom version") + " " + FormatFullVersion() + "\n\n" +
                 _("Usage:") + "\n" +
-                  "  vsyncd [options]                     " + "\n" +
-                  "  vsyncd [options] <command> [params]  " + _("Send command to -server or vsyncd") + "\n" +
-                  "  vsyncd [options] help                " + _("List commands") + "\n" +
-                  "  vsyncd [options] help <command>      " + _("Get help for a command") + "\n";
+                  "  tomd [options]                     " + "\n" +
+                  "  tomd [options] <command> [params]  " + _("Send command to -server or tomd") + "\n" +
+                  "  tomd [options] help                " + _("List commands") + "\n" +
+                  "  tomd [options] help <command>      " + _("Get help for a command") + "\n";
 
             strUsage += "\n" + HelpMessage();
 
@@ -65,7 +65,7 @@ bool AppInit(int argc, char* argv[])
 
         // Command-line RPC
         for (int i = 1; i < argc; i++)
-            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "vsync:"))
+            if (!IsSwitchChar(argv[i][0]) && !boost::algorithm::istarts_with(argv[i], "tom:"))
                 fCommandLine = true;
 
         if (fCommandLine)

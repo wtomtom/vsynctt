@@ -1,6 +1,6 @@
 [Protocol]
-exec=vsync-qt '%u'
-protocol=vsync
+exec=tom-qt '%u'
+protocol=tom
 input=none
 output=none
 helper=true

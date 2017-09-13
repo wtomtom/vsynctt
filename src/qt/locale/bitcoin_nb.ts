@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Vsync</source>
-        <translation>Om Vsync</translation>
+        <source>About tom</source>
+        <translation>Om tom</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Vsync&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Vsync&lt;/b&gt; versjon</translation>
+        <source>&lt;b&gt;tom&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;tom&lt;/b&gt; versjon</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Vsync developers</source>
+Copyright © 2014 The tom developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Vsync developers</translation>
+Copyright © 2014 The tom developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -60,7 +60,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Vsync addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <source>These are your tom addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
         <translation>Dette er adressene for å motta betalinger. Du ønsker kanskje å gi ulike adresser til hver avsender så du lettere kan holde øye med hvem som betaler deg.</translation>
     </message>
     <message>
@@ -75,8 +75,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Vsync address</source>
-        <translation>Signer en melding for å bevise din egen Vsync adresse.</translation>
+        <source>Sign a message to prove you own a tom address</source>
+        <translation>Signer en melding for å bevise din egen tom adresse.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -90,8 +90,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Vsync address</source>
-        <translation>Verifiser en melding får å forsikre deg om at den er signert med en spesifikk Vsync adresse</translation>
+        <source>Verify a message to ensure it was signed with a specified tom address</source>
+        <translation>Verifiser en melding får å forsikre deg om at den er signert med en spesifikk tom adresse</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -258,7 +258,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+82"/>
-        <source>Vsync will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <source>tom will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -352,8 +352,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Vsync</source>
-        <translation>Vis info om Vsync</translation>
+        <source>Show information about tom</source>
+        <translation>Vis info om tom</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -392,13 +392,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Vsync address</source>
-        <translation>Send coins til en Vsync adresse</translation>
+        <source>Send coins to a tom address</source>
+        <translation>Send coins til en tom adresse</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Vsync</source>
-        <translation>Endre innstillingene til Vsync</translation>
+        <source>Modify configuration options for tom</source>
+        <translation>Endre innstillingene til tom</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -438,8 +438,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Vsync</source>
-        <translation>Vsync</translation>
+        <source>tom</source>
+        <translation>tom</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -448,8 +448,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Vsync</source>
-        <translation>&amp;Om Vsync</translation>
+        <source>&amp;About tom</source>
+        <translation>&amp;Om tom</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -500,13 +500,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Vsync client</source>
-        <translation>Vsync klient</translation>
+        <source>tom client</source>
+        <translation>tom klient</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Vsync network</source>
-        <translation><numerusform>%n aktiv tilkobling til Vsync nettverket</numerusform><numerusform>%n aktive tilkoblinger til Vsync nettverket</numerusform></translation>
+        <source>%n active connection(s) to tom network</source>
+        <translation><numerusform>%n aktiv tilkobling til tom nettverket</numerusform><numerusform>%n aktive tilkoblinger til tom nettverket</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -600,7 +600,7 @@ Adresse: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Vsync address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid tom address or malformed URI parameters.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -723,7 +723,7 @@ Adresse: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Vsync can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. tom can no longer continue safely and will quit.</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -991,8 +991,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Vsync address.</source>
-        <translation>Den angitte adressen &quot;%1&quot; er ikke en gyldig Vsync adresse.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid tom address.</source>
+        <translation>Den angitte adressen &quot;%1&quot; er ikke en gyldig tom adresse.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1010,8 +1010,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Vsync-Qt</source>
-        <translation>Vsync-Qt</translation>
+        <source>tom-Qt</source>
+        <translation>tom-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1083,13 +1083,13 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Vsync after logging in to the system.</source>
-        <translation>Start Vsync automatisk ved hver innlogging.</translation>
+        <source>Automatically start tom after logging in to the system.</source>
+        <translation>Start tom automatisk ved hver innlogging.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Vsync on system login</source>
-        <translation>&amp;Start Vsync ved innlogging</translation>
+        <source>&amp;Start tom on system login</source>
+        <translation>&amp;Start tom ved innlogging</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1098,7 +1098,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Vsync client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the tom client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1128,7 +1128,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Vsync network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the tom network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1173,7 +1173,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Vsync.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting tom.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1184,7 +1184,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location line="+13"/>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Velg standard delt enhet for visning i grensesnittet og for sending av vsyncs.</translation>
+        <translation>Velg standard delt enhet for visning i grensesnittet og for sending av toms.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1230,8 +1230,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Vsync.</source>
-        <translation>Denne innstillingen vil tre i kraft etter Vsync er blitt startet på nytt.</translation>
+        <source>This setting will take effect after restarting tom.</source>
+        <translation>Denne innstillingen vil tre i kraft etter tom er blitt startet på nytt.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1249,7 +1249,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Vsync network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the tom network after a connection is established, but this process has not completed yet.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1323,7 +1323,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start vsync: click-to-pay handler</source>
+        <source>Cannot start tom: click-to-pay handler</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1493,7 +1493,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Vsync-Qt help message to get a list with possible Vsync command-line options.</source>
+        <source>Show the tom-Qt help message to get a list with possible tom command-line options.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1513,12 +1513,12 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Vsync - Debug window</source>
+        <source>tom - Debug window</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+25"/>
-        <source>Vsync Core</source>
+        <source>tom Core</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1528,7 +1528,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Vsync debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the tom debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1538,7 +1538,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-28"/>
-        <source>Welcome to the Vsync RPC console.</source>
+        <source>Welcome to the tom RPC console.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1599,7 +1599,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Send Vsyncs</translation>
+        <translation>Send toms</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1709,7 +1709,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-171"/>
-        <source>Enter a Vsync address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a tom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1804,8 +1804,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+241"/>
-        <source>WARNING: Invalid Vsync address</source>
-        <translation>ADVARSEL: Ugyldig Vsync adresse</translation>
+        <source>WARNING: Invalid tom address</source>
+        <translation>ADVARSEL: Ugyldig tom adresse</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1878,7 +1878,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Vsync address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a tom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1939,7 +1939,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Vsync address</source>
+        <source>Sign the message to prove you own this tom address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1971,7 +1971,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Vsync address</source>
+        <source>Verify the message to ensure it was signed with the specified tom address</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1982,7 +1982,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Vsync address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter a tom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1992,8 +1992,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Vsync signature</source>
-        <translation>Skriv inn Vsync signatur</translation>
+        <source>Enter tom signature</source>
+        <translation>Skriv inn tom signatur</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2571,8 +2571,8 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+8"/>
-        <source>Vsync version</source>
-        <translation>Vsync versjon</translation>
+        <source>tom version</source>
+        <translation>tom versjon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2581,7 +2581,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or vsyncd</source>
+        <source>Send command to -server or tomd</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2601,12 +2601,12 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: vsync.conf)</source>
+        <source>Specify configuration file (default: tom.conf)</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: vsyncd.pid)</source>
+        <source>Specify pid file (default: tomd.pid)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -2624,13 +2624,13 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=vsyncrpc
+rpcuser=tomrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;tom Alert&quot; admin@foo.com
 </source>
         <translation type="unfinished"/>
     </message>
@@ -2731,7 +2731,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+46"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Vsync will not work properly.</source>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong tom will not work properly.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3026,7 +3026,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Vsync is shutting down.</source>
+        <source>Initialization sanity check failed. tom is shutting down.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3081,12 +3081,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Vsync</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of tom</source>
         <translation type="unfinished"/>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Vsync to complete</source>
+        <source>Wallet needed to be rewritten: restart tom to complete</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3146,7 +3146,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+131"/>
-        <source>Unable to bind to %s on this computer. Vsync is probably already running.</source>
+        <source>Unable to bind to %s on this computer. tom is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -3176,7 +3176,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.co
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Vsync is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. tom is probably already running.</source>
         <translation type="unfinished"/>
     </message>
     <message>

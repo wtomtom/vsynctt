@@ -5,29 +5,29 @@
 #build/bitcoind::
 #	$(if $(filter nocheck,$(DEB_BUILD_OPTIONS)),,src/test_bitcoin)
 
-DEB_INSTALL_EXAMPLES_vsyncd += debian/examples/*
-DEB_INSTALL_MANPAGES_vsyncd += debian/manpages/*
+DEB_INSTALL_EXAMPLES_tomd += debian/examples/*
+DEB_INSTALL_MANPAGES_tomd += debian/manpages/*
 
 %:
 	dh --with bash-completion $@
 
 override_dh_auto_build:
-	cd src; $(MAKE) -f makefile.unix vsyncd
+	cd src; $(MAKE) -f makefile.unix tomd
 	$(MAKE)
 
 override_dh_auto_clean:
-	if [ -f Makefile ]; then $(MAKE) clean; else rm -rf build/; rm -f vsync-qt; fi
+	if [ -f Makefile ]; then $(MAKE) clean; else rm -rf build/; rm -f tom-qt; fi
 	cd src; $(MAKE) -f makefile.unix clean
 
 override_dh_auto_configure:
-	qmake vsync-qt.pro USE_QRCODE=1
+	qmake tom-qt.pro USE_QRCODE=1
 
 override_dh_auto_test:
-	cd src; $(MAKE) -f makefile.unix test_vsync
-	src/test_vsync
+	cd src; $(MAKE) -f makefile.unix test_tom
+	src/test_tom
 
 # Ensure wrapper is set executable
-binary-post-install/vsyncd:
-	chmod +x $(cdbs_curdestdir)usr/bin/vsyncd
-binary-post-install/vsync-qt:
-	chmod +x $(cdbs_curdestdir)usr/bin/vsync-qt
+binary-post-install/tomd:
+	chmod +x $(cdbs_curdestdir)usr/bin/tomd
+binary-post-install/tom-qt:
+	chmod +x $(cdbs_curdestdir)usr/bin/tom-qt

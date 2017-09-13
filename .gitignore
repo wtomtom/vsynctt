@@ -1,7 +1,7 @@
 src/*.exe
-src/vsync
-src/vsyncd
-src/test_vsync
+src/tom
+src/tomd
+src/test_tom
 src/build.h
 .*.swp
 *.*~*
@@ -10,11 +10,11 @@ src/build.h
 *.orig
 *.o
 *.patch
-.vsync
+.tom
 #compilation and Qt preprocessor part
 *.qm
 Makefile
-vsync-qt
+tom-qt
 #resources cpp
 qrc_*.cpp
 #qt creator

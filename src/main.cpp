@@ -22,7 +22,7 @@ using namespace std;
 using namespace boost;
 
 #if defined(NDEBUG)
-# error "Vsync cannot be compiled without assertions."
+# error "tom cannot be compiled without assertions."
 #endif
 
 //
@@ -77,7 +77,7 @@ map<uint256, set<uint256> > mapOrphanTransactionsByPrev;
 // Constant stuff for coinbase transactions we create:
 CScript COINBASE_FLAGS;
 
-const string strMessageMagic = "Vsync Signed Message:\n";
+const string strMessageMagic = "tom Signed Message:\n";
 
 //////////////////////////////////////////////////////////////////////////////
 //
@@ -2313,7 +2313,7 @@ bool ProcessBlock(CNode* pfrom, CBlock* pblock)
 }
 
 #ifdef ENABLE_WALLET
-// vsync: attempt to generate suitable proof-of-stake
+// tom: attempt to generate suitable proof-of-stake
 bool CBlock::SignBlock(CWallet& wallet, int64_t nFees)
 {
     // if we are trying to sign
@@ -2665,7 +2665,7 @@ struct CImportingNow
 
 void ThreadImport(std::vector<boost::filesystem::path> vImportFiles)
 {
-    RenameThread("vsync-loadblk");
+    RenameThread("tom-loadblk");
 
     CImportingNow imp;
 

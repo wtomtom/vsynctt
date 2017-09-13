@@ -1,2 +1,2 @@
-debian/bin/vsyncd usr/bin
-src/vsyncd usr/lib/vsync
+debian/bin/tomd usr/bin
+src/tomd usr/lib/tom

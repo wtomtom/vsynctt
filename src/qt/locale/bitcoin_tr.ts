@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Vsync</source>
-        <translation>Vsync Hakkında</translation>
+        <source>About tom</source>
+        <translation>tom Hakkında</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Vsync&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Vsync&lt;/b&gt; versiyonu</translation>
+        <source>&lt;b&gt;tom&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;tom&lt;/b&gt; versiyonu</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Vsync developers</source>
+Copyright © 2014 The tom developers</source>
         <translation>Telif Hakkı © 2009-2014 Bitcoin geliştiricileri
 Telif Hakkı © 2012-2014 NovaCoin geliştiricileri
-Telif Hakkı © 2014 Vsync geliştiricileri</translation>
+Telif Hakkı © 2014 tom geliştiricileri</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -65,8 +65,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Vsync addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Bunlar, ödeme almak için Vsync adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
+        <source>These are your tom addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Bunlar, ödeme almak için tom adreslerinizdir. Her bir göndericiye farklı birini verebilir, böylece size kimin ödeme yaptığını takip edebilirsiniz.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -80,8 +80,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Vsync address</source>
-        <translation>Bir Vsync adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
+        <source>Sign a message to prove you own a tom address</source>
+        <translation>Bir tom adresine sahip olduğunu ispatlamak için bir mesaj imzala</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -95,8 +95,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Vsync address</source>
-        <translation>Mesajın, belirli bir Vsync adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify a message to ensure it was signed with a specified tom address</source>
+        <translation>Mesajın, belirli bir tom adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -263,8 +263,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+82"/>
-        <source>Vsync will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Vsync, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
+        <source>tom will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>tom, şifreleme işlemini tamamlamak için şimdi kapatılacak. Cüzdanınızı şifrelemenin; coinlerinizin, bilgisayarınızı etkileyen zararlı yazılımlar tarafından çalınmasını bütünüyle engelleyemeyebileceğini unutmayınız.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -357,8 +357,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Vsync</source>
-        <translation>Vsync hakkındaki bilgiyi göster</translation>
+        <source>Show information about tom</source>
+        <translation>tom hakkındaki bilgiyi göster</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -397,13 +397,13 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Vsync address</source>
-        <translation>Bir Vsync adresine coin gönder</translation>
+        <source>Send coins to a tom address</source>
+        <translation>Bir tom adresine coin gönder</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Vsync</source>
-        <translation>Vsync yapılandırma seçeneklerini değiştir</translation>
+        <source>Modify configuration options for tom</source>
+        <translation>tom yapılandırma seçeneklerini değiştir</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -443,8 +443,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Vsync</source>
-        <translation>Vsync</translation>
+        <source>tom</source>
+        <translation>tom</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -453,8 +453,8 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Vsync</source>
-        <translation>Vsync &amp;Hakkında</translation>
+        <source>&amp;About tom</source>
+        <translation>tom &amp;Hakkında</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -505,13 +505,13 @@ Bu ürün, OpenSSL projesi tarafından OpenSSL araç takımıThis product includ
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Vsync client</source>
-        <translation>Vsync istemcisi</translation>
+        <source>tom client</source>
+        <translation>tom istemcisi</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Vsync network</source>
-        <translation><numerusform>Vsync ağına %n etkin bağlantı</numerusform><numerusform>Vsync ağına %n etkin bağlantı</numerusform></translation>
+        <source>%n active connection(s) to tom network</source>
+        <translation><numerusform>tom ağına %n etkin bağlantı</numerusform><numerusform>tom ağına %n etkin bağlantı</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -605,8 +605,8 @@ Adres: %4
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Vsync address or malformed URI parameters.</source>
-        <translation>URI ayrıştırılamadı! Bu, geçersiz bir Vsync adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid tom address or malformed URI parameters.</source>
+        <translation>URI ayrıştırılamadı! Bu, geçersiz bir tom adresi veya hatalı URI parametreleri nedeniyle olabilir.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -728,8 +728,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Vsync can no longer continue safely and will quit.</source>
-        <translation>Önemli bir hata oluştu. Vsync artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
+        <source>A fatal error occurred. tom can no longer continue safely and will quit.</source>
+        <translation>Önemli bir hata oluştu. tom artık güvenli bir şekilde devam edemez ve şimdi kapatılacak.</translation>
     </message>
 </context>
 <context>
@@ -1004,8 +1004,8 @@ Adres: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Vsync address.</source>
-        <translation>Girilen %1 adresi, geçerli bir Vsync adresi değildir.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid tom address.</source>
+        <translation>Girilen %1 adresi, geçerli bir tom adresi değildir.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1023,8 +1023,8 @@ Adres: %4
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Vsync-Qt</source>
-        <translation>Vsync-Qt</translation>
+        <source>tom-Qt</source>
+        <translation>tom-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1096,13 +1096,13 @@ Adres: %4
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Vsync after logging in to the system.</source>
-        <translation>Sisteme giriş yaptıktan sonra Vsync&apos;i otomatik olarak başlat</translation>
+        <source>Automatically start tom after logging in to the system.</source>
+        <translation>Sisteme giriş yaptıktan sonra tom&apos;i otomatik olarak başlat</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Vsync on system login</source>
-        <translation>Sisteme girişte Vsync&apos;i &amp;başlat</translation>
+        <source>&amp;Start tom on system login</source>
+        <translation>Sisteme girişte tom&apos;i &amp;başlat</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1111,8 +1111,8 @@ Adres: %4
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Vsync client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönelticide Vsync istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
+        <source>Automatically open the tom client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönelticide tom istemci portunu otomatik olarak aç. Bu, sadece yönelticiniz UPnP&apos;i desteklediğinde ve etkin olduğunda çalışır.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1141,7 +1141,7 @@ Adres: %4
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Vsync network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <source>Connect to the tom network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1186,8 +1186,8 @@ Adres: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Vsync.</source>
-        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, Vsync yeniden başlatıldığında etkin olacaktır.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting tom.</source>
+        <translation>Kullanıcı arabirimi dili buradan ayarlanabilir. Ayar, tom yeniden başlatıldığında etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1243,8 +1243,8 @@ Adres: %4
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Vsync.</source>
-        <translation>Bu ayar, Vsync&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
+        <source>This setting will take effect after restarting tom.</source>
+        <translation>Bu ayar, tom&apos;i yeniden başlattıktan sonra etkin olacaktır.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1262,8 +1262,8 @@ Adres: %4
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Vsync network after a connection is established, but this process has not completed yet.</source>
-        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak Vsync ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the tom network after a connection is established, but this process has not completed yet.</source>
+        <translation>Görüntülenen bilginin tarihi geçmiş olabilir. Cüzdanınız, bağlantı kurulduktan sonra otomatik olarak tom ağı ile senkronize olur ancak bu süreç, henüz tamamlanmamıştır.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1336,8 +1336,8 @@ Adres: %4
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start vsync: click-to-pay handler</source>
-        <translation>Vsync: tıkla-ve-öde işleyicisi başlatılamıyor</translation>
+        <source>Cannot start tom: click-to-pay handler</source>
+        <translation>tom: tıkla-ve-öde işleyicisi başlatılamıyor</translation>
     </message>
 </context>
 <context>
@@ -1506,8 +1506,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Vsync-Qt help message to get a list with possible Vsync command-line options.</source>
-        <translation>Muhtemel Vsync komut satırı seçeneklerinin bir listesini getirmek için Vsync-Qt yardım mesajını göster</translation>
+        <source>Show the tom-Qt help message to get a list with possible tom command-line options.</source>
+        <translation>Muhtemel tom komut satırı seçeneklerinin bir listesini getirmek için tom-Qt yardım mesajını göster</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1526,13 +1526,13 @@ Adres: %4
     </message>
     <message>
         <location line="-104"/>
-        <source>Vsync - Debug window</source>
-        <translation>Vsync - Hata ayıklama penceresi</translation>
+        <source>tom - Debug window</source>
+        <translation>tom - Hata ayıklama penceresi</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Vsync Core</source>
-        <translation>Vsync Core</translation>
+        <source>tom Core</source>
+        <translation>tom Core</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1541,8 +1541,8 @@ Adres: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Vsync debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Vsync hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
+        <source>Open the tom debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>tom hata ayıklama günlük kütüğü dosyasını, mevcut veri klasöründen aç. Bu işlem, büyük günlük kütüğü dosyaları için birkaç saniye sürebilir.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1551,8 +1551,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-28"/>
-        <source>Welcome to the Vsync RPC console.</source>
-        <translation>Vsync RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the tom RPC console.</source>
+        <translation>tom RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1722,8 +1722,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-171"/>
-        <source>Enter a Vsync address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Vsync adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir tom adresi gir (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1817,8 +1817,8 @@ Adres: %4
     </message>
     <message>
         <location line="+241"/>
-        <source>WARNING: Invalid Vsync address</source>
-        <translation>UYARI: Geçersiz Vsync adresi</translation>
+        <source>WARNING: Invalid tom address</source>
+        <translation>UYARI: Geçersiz tom adresi</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1891,8 +1891,8 @@ Adres: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Vsync address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Vsync adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir tom adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1952,8 +1952,8 @@ Adres: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Vsync address</source>
-        <translation>Bu Vsync adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
+        <source>Sign the message to prove you own this tom address</source>
+        <translation>Bu tom adresine sahip olduğunuzu ispatlamak için mesajı imzala</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -1984,8 +1984,8 @@ Adres: %4
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Vsync address</source>
-        <translation>Mesajın, belirtilen Vsync adresiyle imzalandığından emin olmak için onu doğrula</translation>
+        <source>Verify the message to ensure it was signed with the specified tom address</source>
+        <translation>Mesajın, belirtilen tom adresiyle imzalandığından emin olmak için onu doğrula</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -1995,8 +1995,8 @@ Adres: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Vsync address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Bir Vsync adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Bir tom adresi girin (örn: B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2005,8 +2005,8 @@ Adres: %4
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Vsync signature</source>
-        <translation>Vsync imzası gir</translation>
+        <source>Enter tom signature</source>
+        <translation>tom imzası gir</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2584,8 +2584,8 @@ Adres: %4
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+8"/>
-        <source>Vsync version</source>
-        <translation>Vsync versiyonu</translation>
+        <source>tom version</source>
+        <translation>tom versiyonu</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2594,8 +2594,8 @@ Adres: %4
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or vsyncd</source>
-        <translation>-sunucu veya vsyncd&apos;ye komut gönder</translation>
+        <source>Send command to -server or tomd</source>
+        <translation>-sunucu veya tomd&apos;ye komut gönder</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2614,13 +2614,13 @@ Adres: %4
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: vsync.conf)</source>
-        <translation>Konfigürasyon dosyasını belirt (varsayılan: vsync.conf)</translation>
+        <source>Specify configuration file (default: tom.conf)</source>
+        <translation>Konfigürasyon dosyasını belirt (varsayılan: tom.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: vsyncd.pid)</source>
-        <translation>pid dosyasını belirt (varsayılan: vsync.pid)</translation>
+        <source>Specify pid file (default: tomd.pid)</source>
+        <translation>pid dosyasını belirt (varsayılan: tom.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2637,24 +2637,24 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=vsyncrpc
+rpcuser=tomrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;tom Alert&quot; admin@foo.com
 </source>
         <translation>%s, konfigürasyon dosyasında bir rpcpassword belirlemelisiniz: 
 %s
 Aşağıdaki rastgele şifreyi kullanmanız tavsiye edilir:
-rpcuser=vsyncrpc
+rpcuser=tomrpc
 rpcpassword=%s
 (bu şifreyi hatırlamanız gerekmemektedir)
 Kullanıcı adı ve şifre aynı OLMAMALIDIR.
 Dosya mevcut değilse, sadece sahibi tarafından okunabilir yetkiyle yaratın.
 Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanız önerilir;
-örneğin: alertnotify=echo %%s | mail -s &quot;Vsync Alarmı&quot; admin@foo.com
+örneğin: alertnotify=echo %%s | mail -s &quot;tom Alarmı&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2754,8 +2754,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+46"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Vsync will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, Vsync düzgün çalışmayacaktır.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong tom will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olduğunu kontrol ediniz! Saatiniz yanlış ise, tom düzgün çalışmayacaktır.</translation>
     </message>
     <message>
         <location line="-19"/>
@@ -3049,8 +3049,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Vsync is shutting down.</source>
-        <translation>Başlangıç uygunluk kontrolü başarısız oldu. Vsync kapatılıyor.</translation>
+        <source>Initialization sanity check failed. tom is shutting down.</source>
+        <translation>Başlangıç uygunluk kontrolü başarısız oldu. tom kapatılıyor.</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -3104,13 +3104,13 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Vsync</source>
-        <translation>wallet.dat yüklenirken hata: Cüzdan, daha yeni bir Vsync versiyonuna ihtiyaç duyuyor.</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of tom</source>
+        <translation>wallet.dat yüklenirken hata: Cüzdan, daha yeni bir tom versiyonuna ihtiyaç duyuyor.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Vsync to complete</source>
-        <translation>Cüzdanın yeniden yazılması gerekmektedir: Tamamlamak için Vsync&apos;i yeniden başlatın</translation>
+        <source>Wallet needed to be rewritten: restart tom to complete</source>
+        <translation>Cüzdanın yeniden yazılması gerekmektedir: Tamamlamak için tom&apos;i yeniden başlatın</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3169,8 +3169,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+131"/>
-        <source>Unable to bind to %s on this computer. Vsync is probably already running.</source>
-        <translation>Bu bilgisayarda %s bağlanamadı. Vsync muhtemelen halen çalışmaktadır.</translation>
+        <source>Unable to bind to %s on this computer. tom is probably already running.</source>
+        <translation>Bu bilgisayarda %s bağlanamadı. tom muhtemelen halen çalışmaktadır.</translation>
     </message>
     <message>
         <location line="-108"/>
@@ -3199,8 +3199,8 @@ Ayrıca sorunlardan haberdar edilmek için alertnotify parametresini doldurmanı
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Vsync is probably already running.</source>
-        <translation>Veri klasörü %s üzerinde kilit elde edilemedi. Vsync muhtemelen halen çalışmaktadır.</translation>
+        <source>Cannot obtain a lock on data directory %s. tom is probably already running.</source>
+        <translation>Veri klasörü %s üzerinde kilit elde edilemedi. tom muhtemelen halen çalışmaktadır.</translation>
     </message>
     <message>
         <location line="+4"/>

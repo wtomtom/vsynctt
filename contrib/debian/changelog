@@ -1,5 +1,5 @@
-vsync (1.1.2.1) unstable; urgency=low
+tom (1.1.2.1) unstable; urgency=low
 
-  * Update debian package scripts for use by vsync.
+  * Update debian package scripts for use by tom.
 
  -- Xerxes Rånby <xerxes@gudinna.com>  Mon, 22 December 2014 17:58:43 +0100

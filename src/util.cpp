@@ -918,7 +918,7 @@ static std::string FormatException(std::exception* pex, const char* pszThread)
     char pszModule[MAX_PATH] = "";
     GetModuleFileNameA(NULL, pszModule, sizeof(pszModule));
 #else
-    const char* pszModule = "vsync";
+    const char* pszModule = "tom";
 #endif
     if (pex)
         return strprintf(
@@ -948,13 +948,13 @@ void PrintExceptionContinue(std::exception* pex, const char* pszThread)
 boost::filesystem::path GetDefaultDataDir()
 {
     namespace fs = boost::filesystem;
-    // Windows < Vista: C:\Documents and Settings\Username\Application Data\Vsync
-    // Windows >= Vista: C:\Users\Username\AppData\Roaming\Vsync
-    // Mac: ~/Library/Application Support/Vsync
-    // Unix: ~/.vsync
+    // Windows < Vista: C:\Documents and Settings\Username\Application Data\tom
+    // Windows >= Vista: C:\Users\Username\AppData\Roaming\tom
+    // Mac: ~/Library/Application Support/tom
+    // Unix: ~/.tom
 #ifdef WIN32
     // Windows
-    return GetSpecialFolderPath(CSIDL_APPDATA) / "Vsync";
+    return GetSpecialFolderPath(CSIDL_APPDATA) / "tom";
 #else
     fs::path pathRet;
     char* pszHome = getenv("HOME");
@@ -966,10 +966,10 @@ boost::filesystem::path GetDefaultDataDir()
     // Mac
     pathRet /= "Library/Application Support";
     fs::create_directory(pathRet);
-    return pathRet / "Vsync";
+    return pathRet / "tom";
 #else
     // Unix
-    return pathRet / ".vsync";
+    return pathRet / ".tom";
 #endif
 #endif
 }
@@ -1018,7 +1018,7 @@ void ClearDatadirCache()
 
 boost::filesystem::path GetConfigFile()
 {
-    boost::filesystem::path pathConfigFile(GetArg("-conf", "vsync.conf"));
+    boost::filesystem::path pathConfigFile(GetArg("-conf", "tom.conf"));
     if (!pathConfigFile.is_complete()) pathConfigFile = GetDataDir(false) / pathConfigFile;
     return pathConfigFile;
 }
@@ -1051,7 +1051,7 @@ void ReadConfigFile(map<string, string>& mapSettingsRet,
 
 boost::filesystem::path GetPidFile()
 {
-    boost::filesystem::path pathPidFile(GetArg("-pid", "vsyncd.pid"));
+    boost::filesystem::path pathPidFile(GetArg("-pid", "tomd.pid"));
     if (!pathPidFile.is_complete()) pathPidFile = GetDataDir() / pathPidFile;
     return pathPidFile;
 }

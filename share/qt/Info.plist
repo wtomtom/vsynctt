@@ -7,23 +7,23 @@
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Vsync-Qt</string>
+	<string>tom-Qt</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleExecutable</key>
-	<string>Vsync-Qt</string>
+	<string>tom-Qt</string>
 	<key>CFBundleIdentifier</key>
-	<string>co.vsync.Vsync-Qt</string>
+	<string>co.tom.tom-Qt</string>
         <key>CFBundleURLTypes</key>
         <array>
           <dict>
             <key>CFBundleTypeRole</key>
             <string>Editor</string>
             <key>CFBundleURLName</key>
-            <string>co.vsync.VsyncPayment</string>
+            <string>co.tom.tomPayment</string>
             <key>CFBundleURLSchemes</key>
             <array>
-              <string>vsync</string>
+              <string>tom</string>
             </array>
           </dict>
         </array>

@@ -3,22 +3,22 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Vsync</source>
-        <translation>Tietoa Vsyncista</translation>
+        <source>About tom</source>
+        <translation>Tietoa tomista</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Vsync&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Vsync&lt;/b&gt;-asiakasohjelman versio</translation>
+        <source>&lt;b&gt;tom&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;tom&lt;/b&gt;-asiakasohjelman versio</translation>
     </message>
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Vsync developers</source>
+Copyright © 2014 The tom developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
-Copyright © 2014 The Vsync developers</translation>
+Copyright © 2014 The tom developers</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -66,8 +66,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-43"/>
-        <source>These are your Vsync addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
-        <translation>Nämä ovat Vsync-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
+        <source>These are your tom addresses for receiving payments. You may want to give a different one to each sender so you can keep track of who is paying you.</source>
+        <translation>Nämä ovat tom-osoitteesi rahansiirtojen vastaanottoa varten. Jos haluat, voit antaa jokaiselle lähettäjälle oman osoitteen jotta voit pitää kirjaa sinulle rahaa siirtäneistä henkilöistä.</translation>
     </message>
     <message>
         <location line="+53"/>
@@ -81,8 +81,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign a message to prove you own a Vsync address</source>
-        <translation>Allekirjoita viesti osoittaaksesi Vsync-osoitteesi omistajuus</translation>
+        <source>Sign a message to prove you own a tom address</source>
+        <translation>Allekirjoita viesti osoittaaksesi tom-osoitteesi omistajuus</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -96,8 +96,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-10"/>
-        <source>Verify a message to ensure it was signed with a specified Vsync address</source>
-        <translation>Vahvista viesti varmistaaksesi että kyseinen Vsync-osoitteesi on allekirjoittanut sen</translation>
+        <source>Verify a message to ensure it was signed with a specified tom address</source>
+        <translation>Vahvista viesti varmistaaksesi että kyseinen tom-osoitteesi on allekirjoittanut sen</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -233,7 +233,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Varoitus: Jos salaat lompakkosi ja hukkaat salasanasi, &lt;b&gt;MENETÄT KAIKKI VSYNCISI&lt;/b&gt;!</translation>
+        <translation>Varoitus: Jos salaat lompakkosi ja hukkaat salasanasi, &lt;b&gt;MENETÄT KAIKKI tomISI&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -264,8 +264,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+82"/>
-        <source>Vsync will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
-        <translation>Vsync-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
+        <source>tom will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your coins from being stolen by malware infecting your computer.</source>
+        <translation>tom-ohjelma sulkee itsensä päättääkseen salauksen luonnin. Muista, että lompakon salaaminen ei täysin turvaa kolikoitasi haittaohjelmien aiheuttamien varkauksien uhalta.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -358,8 +358,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+4"/>
-        <source>Show information about Vsync</source>
-        <translation>Näytä tietoja Vsyncista</translation>
+        <source>Show information about tom</source>
+        <translation>Näytä tietoja tomista</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -398,12 +398,12 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="-55"/>
-        <source>Send coins to a Vsync address</source>
-        <translation>Lähetä kolikoita Vsync-osoitteeseen</translation>
+        <source>Send coins to a tom address</source>
+        <translation>Lähetä kolikoita tom-osoitteeseen</translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>Modify configuration options for Vsync</source>
+        <source>Modify configuration options for tom</source>
         <translation>Mukauta asiakasohjelman asetuksia</translation>
     </message>
     <message>
@@ -444,8 +444,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="-214"/>
         <location line="+555"/>
-        <source>Vsync</source>
-        <translation>Vsync</translation>
+        <source>tom</source>
+        <translation>tom</translation>
     </message>
     <message>
         <location line="-555"/>
@@ -454,8 +454,8 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     </message>
     <message>
         <location line="+193"/>
-        <source>&amp;About Vsync</source>
-        <translation>&amp;Tietoa Vsyncista</translation>
+        <source>&amp;About tom</source>
+        <translation>&amp;Tietoa tomista</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -506,13 +506,13 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+0"/>
         <location line="+58"/>
-        <source>Vsync client</source>
-        <translation>Vsync-asiakasohjelma</translation>
+        <source>tom client</source>
+        <translation>tom-asiakasohjelma</translation>
     </message>
     <message numerus="yes">
         <location line="+70"/>
-        <source>%n active connection(s) to Vsync network</source>
-        <translation><numerusform>%n aktiivinen yhteys Vsync-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä Vsync-verkkoon</numerusform></translation>
+        <source>%n active connection(s) to tom network</source>
+        <translation><numerusform>%n aktiivinen yhteys tom-verkkoon</numerusform><numerusform>%n aktiivista yhteyttä tom-verkkoon</numerusform></translation>
     </message>
     <message>
         <location line="+488"/>
@@ -605,8 +605,8 @@ Osoite: %4</translation>
     <message>
         <location line="-15"/>
         <location line="+15"/>
-        <source>URI can not be parsed! This can be caused by an invalid Vsync address or malformed URI parameters.</source>
-        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä Vsync-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid tom address or malformed URI parameters.</source>
+        <translation>URI-merkkijonoa ei voida jäsentää! Tämä voi johtua väärästä tom-osoitteesta tai väärässä muodossa olevista URI-parametreistä.</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -728,8 +728,8 @@ Osoite: %4</translation>
     </message>
     <message>
         <location filename="../bitcoin.cpp" line="+104"/>
-        <source>A fatal error occurred. Vsync can no longer continue safely and will quit.</source>
-        <translation>Virhe kohdattu. Vsync-asiakasohjelma ei voi enää jatkaa turvallisesti ja se suljetaan.</translation>
+        <source>A fatal error occurred. tom can no longer continue safely and will quit.</source>
+        <translation>Virhe kohdattu. tom-asiakasohjelma ei voi enää jatkaa turvallisesti ja se suljetaan.</translation>
     </message>
 </context>
 <context>
@@ -1004,8 +1004,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Vsync address.</source>
-        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty Vsync-osoite.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid tom address.</source>
+        <translation>Syöttämäsi osoite &quot;%1&quot; ei ole hyväksytty tom-osoite.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1023,8 +1023,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../guiutil.cpp" line="+426"/>
         <location line="+12"/>
-        <source>Vsync-Qt</source>
-        <translation>Vsync-Qt</translation>
+        <source>tom-Qt</source>
+        <translation>tom-Qt</translation>
     </message>
     <message>
         <location line="-12"/>
@@ -1096,13 +1096,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+31"/>
-        <source>Automatically start Vsync after logging in to the system.</source>
-        <translation>Käynnistä Vsync-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
+        <source>Automatically start tom after logging in to the system.</source>
+        <translation>Käynnistä tom-asiakasohjelma automaattisesti kun olet kirjautunut järjestelmään.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Vsync on system login</source>
-        <translation>%Käynnistä Vsync-asiakasohjelma kirjautuessasi</translation>
+        <source>&amp;Start tom on system login</source>
+        <translation>%Käynnistä tom-asiakasohjelma kirjautuessasi</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1111,8 +1111,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+6"/>
-        <source>Automatically open the Vsync client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avaa Vsync-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
+        <source>Automatically open the tom client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avaa tom-asiakkaalle automaattisesti portti reitittimestä. Tämä toimii vain, kun reitittimesi tukee UPnP:tä ja se on aktivoituna.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1141,8 +1141,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-57"/>
-        <source>Connect to the Vsync network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
-        <translation>Yhdistä Vsync-verkkoon SOCKS5-välityspalvelimen kautta (esim. kun yhdistetään Tor:lla).</translation>
+        <source>Connect to the tom network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
+        <translation>Yhdistä tom-verkkoon SOCKS5-välityspalvelimen kautta (esim. kun yhdistetään Tor:lla).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1186,8 +1186,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Vsync.</source>
-        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta Vsync-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting tom.</source>
+        <translation>Käyttöliittymän kieli voidaan valita tästä. Tämä asetus tulee voimaan vasta tom-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1243,8 +1243,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-9"/>
         <location line="+9"/>
-        <source>This setting will take effect after restarting Vsync.</source>
-        <translation>Tämä asetus tulee voimaan vasta Vsync-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
+        <source>This setting will take effect after restarting tom.</source>
+        <translation>Tämä asetus tulee voimaan vasta tom-asiakasohjelman uudelleenkäynnistyksen jälkeen.</translation>
     </message>
     <message>
         <location line="+29"/>
@@ -1262,8 +1262,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="+46"/>
         <location line="+247"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Vsync network after a connection is established, but this process has not completed yet.</source>
-        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti Vsync-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the tom network after a connection is established, but this process has not completed yet.</source>
+        <translation>Näytettävät tiedot voivat olla vanhentuneet. Lompakkosi synkronoituu automaattisesti tom-verkon kanssa kun yhteys on muodostettu, mutta tätä prosessia ei ole viety vielä päätökseen.</translation>
     </message>
     <message>
         <location line="-173"/>
@@ -1336,8 +1336,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <name>PaymentServer</name>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
-        <source>Cannot start vsync: click-to-pay handler</source>
-        <translation>Vsync-asiakasohjelmaa ei voida käynnistää: klikkaa maksaaksesi-käsittelijä</translation>
+        <source>Cannot start tom: click-to-pay handler</source>
+        <translation>tom-asiakasohjelmaa ei voida käynnistää: klikkaa maksaaksesi-käsittelijä</translation>
     </message>
 </context>
 <context>
@@ -1506,8 +1506,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Show the Vsync-Qt help message to get a list with possible Vsync command-line options.</source>
-        <translation>Näytä Vsync-Qt:n avustusohje saadaksesi listan käytettävistä Vsyncin komentokehotteen määritteistä.</translation>
+        <source>Show the tom-Qt help message to get a list with possible tom command-line options.</source>
+        <translation>Näytä tom-Qt:n avustusohje saadaksesi listan käytettävistä tomin komentokehotteen määritteistä.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1526,13 +1526,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="-104"/>
-        <source>Vsync - Debug window</source>
-        <translation>Vsync - Debug-ikkuna</translation>
+        <source>tom - Debug window</source>
+        <translation>tom - Debug-ikkuna</translation>
     </message>
     <message>
         <location line="+25"/>
-        <source>Vsync Core</source>
-        <translation>Vsyncin ydin</translation>
+        <source>tom Core</source>
+        <translation>tomin ydin</translation>
     </message>
     <message>
         <location line="+256"/>
@@ -1541,8 +1541,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Vsync debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa Vsync-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
+        <source>Open the tom debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa tom-asiakasohjelman debug-lokitiedosto nykyisestä hakemistostaan. Tämä voi kestää muutaman sekunnin avattaessa suuria lokitiedostoja.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1551,8 +1551,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-28"/>
-        <source>Welcome to the Vsync RPC console.</source>
-        <translation>Tervetuloa Vsyncin RPC-konsoliin.</translation>
+        <source>Welcome to the tom RPC console.</source>
+        <translation>Tervetuloa tomin RPC-konsoliin.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1612,7 +1612,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Lähetä Vsynceja</translation>
+        <translation>Lähetä tomeja</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1722,8 +1722,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-171"/>
-        <source>Enter a Vsync address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä Vsync-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Syötä tom-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1817,8 +1817,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+241"/>
-        <source>WARNING: Invalid Vsync address</source>
-        <translation>VAROITUS: Epäkelpo Vsync-osoite</translation>
+        <source>WARNING: Invalid tom address</source>
+        <translation>VAROITUS: Epäkelpo tom-osoite</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -1891,8 +1891,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter a Vsync address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä Vsync-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Syötä tom-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
 </context>
 <context>
@@ -1952,8 +1952,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Vsync address</source>
-        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän Vsync-osoitteen</translation>
+        <source>Sign the message to prove you own this tom address</source>
+        <translation>Allekirjoita viesti vahvistaaksesi, että omistat tämän tom-osoitteen</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -1984,8 +1984,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+40"/>
-        <source>Verify the message to ensure it was signed with the specified Vsync address</source>
-        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä Vsync-osoitteella</translation>
+        <source>Verify the message to ensure it was signed with the specified tom address</source>
+        <translation>Vahvista viesti varmistaaksesi että se on allekirjoitettu kyseisellä tom-osoitteella</translation>
     </message>
     <message>
         <location line="+17"/>
@@ -1995,8 +1995,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter a Vsync address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Syötä Vsync-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter a tom address (e.g. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <translation>Syötä tom-osoite (esim. B8gZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
     </message>
     <message>
         <location line="-2"/>
@@ -2005,8 +2005,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Enter Vsync signature</source>
-        <translation>Syötä Vsync-allekirjoitus</translation>
+        <source>Enter tom signature</source>
+        <translation>Syötä tom-allekirjoitus</translation>
     </message>
     <message>
         <location line="+85"/>
@@ -2584,8 +2584,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <name>bitcoin-core</name>
     <message>
         <location filename="../bitcoinstrings.cpp" line="+8"/>
-        <source>Vsync version</source>
-        <translation>Vsyncin versio</translation>
+        <source>tom version</source>
+        <translation>tomin versio</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2594,8 +2594,8 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Send command to -server or vsyncd</source>
-        <translation>Syötä komento kohteeseen -server tai vsyncd</translation>
+        <source>Send command to -server or tomd</source>
+        <translation>Syötä komento kohteeseen -server tai tomd</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -2614,13 +2614,13 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Specify configuration file (default: vsync.conf)</source>
-        <translation>Määritä asetustiedosto (oletus: vsync.conf)</translation>
+        <source>Specify configuration file (default: tom.conf)</source>
+        <translation>Määritä asetustiedosto (oletus: tom.conf)</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Specify pid file (default: vsyncd.pid)</source>
-        <translation>Määritä prosessitiedosto (oletus: vsync.pid)</translation>
+        <source>Specify pid file (default: tomd.pid)</source>
+        <translation>Määritä prosessitiedosto (oletus: tom.pid)</translation>
     </message>
     <message>
         <location line="+2"/>
@@ -2637,21 +2637,21 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=vsyncrpc
+rpcuser=tomrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;tom Alert&quot; admin@foo.com
 </source>
         <translation>%s, sinun on asetettava rpcpassword asetustiedostoon:
 %s
-On suositeltavaa, että käytät seuraavaa arvottua salasanaa: rpcuser=vsyncrpc
+On suositeltavaa, että käytät seuraavaa arvottua salasanaa: rpcuser=tomrpc
 rpcpassword=%s
 (Sinun ei tarvitse muistaa tätä salasanaa) Käyttäjänimen ja salasanan EI TULE OLLA SAMOJA.
 Jos tiedostoa ei ole olemassa, luo se asettaen samalla omistajan lukuoikeudet.
-On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;Vsync Alert&quot; admin@foo.com
+On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; esimerkiksi: alertnotify=echo %%s | mail -s &quot;tom Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -2751,8 +2751,8 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+46"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Vsync will not work properly.</source>
-        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, Vsync ei toimi oikein.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong tom will not work properly.</source>
+        <translation>Varoitus: Tarkista, että tietokoneesi aika ja päivämäärä ovat oikeassa! Jos kellosi on väärässä, tom ei toimi oikein.</translation>
     </message>
     <message>
         <location line="-19"/>
@@ -3046,8 +3046,8 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+8"/>
-        <source>Initialization sanity check failed. Vsync is shutting down.</source>
-        <translation>Käyttöönottotarkistus epäonnistui. Vsync-asiakasohjelma suljetaan.</translation>
+        <source>Initialization sanity check failed. tom is shutting down.</source>
+        <translation>Käyttöönottotarkistus epäonnistui. tom-asiakasohjelma suljetaan.</translation>
     </message>
     <message>
         <location line="+20"/>
@@ -3101,13 +3101,13 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+4"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Vsync</source>
-        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version Vsync-asiakasohjelmasta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of tom</source>
+        <translation>Virhe ladattaessa wallet.dat-tiedostoa: Lompakko tarvitsee uudemman version tom-asiakasohjelmasta</translation>
     </message>
     <message>
         <location line="+1"/>
-        <source>Wallet needed to be rewritten: restart Vsync to complete</source>
-        <translation>Lompakko on kirjoitettava uudelleen: käynnistä Vsync-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
+        <source>Wallet needed to be rewritten: restart tom to complete</source>
+        <translation>Lompakko on kirjoitettava uudelleen: käynnistä tom-asiakasohjelma uudelleen päättääksesi toiminnon</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -3166,8 +3166,8 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+131"/>
-        <source>Unable to bind to %s on this computer. Vsync is probably already running.</source>
-        <translation>Ei voitu liittää %s tällä tietokoneella. Vsync-asiakasohjelma on jo ehkä päällä.</translation>
+        <source>Unable to bind to %s on this computer. tom is probably already running.</source>
+        <translation>Ei voitu liittää %s tällä tietokoneella. tom-asiakasohjelma on jo ehkä päällä.</translation>
     </message>
     <message>
         <location line="-108"/>
@@ -3196,8 +3196,8 @@ On myös suositeltavaa asettaa alertnotify jolloin olet tiedotettu ongelmista; e
     </message>
     <message>
         <location line="+3"/>
-        <source>Cannot obtain a lock on data directory %s. Vsync is probably already running.</source>
-        <translation>Lukkotiedostoa ei voida saada haltuun datahakemistossa %s. Vsync on ehkä jo käynnissä.</translation>
+        <source>Cannot obtain a lock on data directory %s. tom is probably already running.</source>
+        <translation>Lukkotiedostoa ei voida saada haltuun datahakemistossa %s. tom on ehkä jo käynnissä.</translation>
     </message>
     <message>
         <location line="+4"/>

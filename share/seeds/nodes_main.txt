@@ -1,8 +1,8 @@
 # List of fixed seed nodes for main network
 
 # IPv4 nodes
-vsyncnode1.servep2p.com
-vsyncnode.servep2p.com
+tomnode1.servep2p.com
+tomnode.servep2p.com
 
 # IPv6 nodes
 
