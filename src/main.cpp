@@ -42,11 +42,11 @@ set<pair<COutPoint, unsigned int> > setStakeSeen;
 CBigNum bnProofOfStakeLimit(~uint256(0) >> 20);
 CBigNum bnProofOfStakeLimitV2(~uint256(0) >> 48);
 
-int nStakeMinConfirmations = 100;
+int nStakeMinConfirmations = 10;
 unsigned int nStakeMinAge = 48 * 60 * 60; // 48 hours
 unsigned int nModifierInterval = 10 * 60; // time to elapse before new modifier is computed
 
-int nCoinbaseMaturity = 100;
+int nCoinbaseMaturity = 10;
 CBlockIndex* pindexGenesisBlock = NULL;
 int nBestHeight = -1;
 
@@ -1000,11 +1000,11 @@ int64_t GetProofOfStakeReward(const CBlockIndex* pindexPrev, int64_t nCoinAge, i
 {
     int64_t nSubsidy;
     if (IsProtocolV3(pindexPrev->nTime)){
-        if (nHeight < 50000)
+        if (nHeight < 50)
 			nSubsidy = COIN * 40;
 		
 		
-		else if (nHeight < 100000)
+		else if (nHeight < 200)
 			nSubsidy = COIN * 40 / 2;   //POS HALVING
 		
 		

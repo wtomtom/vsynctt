@@ -23,7 +23,8 @@ struct SeedSpec6 {
 //
 // Main network
 //
- 
+
+
 // Convert the pnSeeds6 array into usable address objects.
 static void convertSeed6(std::vector<CAddress> &vSeedsOut, const SeedSpec6 *data, unsigned int count)
 {
@@ -53,36 +54,35 @@ public:
         pchMessageStart[2] = 0x24;
         pchMessageStart[3] = 0x12;
         vAlertPubKey = ParseHex("0419bce1bac0d543f104cbff2bd23680056a3b9ea05e1137d2ff90eeb5e08472eb500322593a2cb06fbf8297d7beb6cd30cb90f98153b5b7cce1493749e41e0284");
-        nDefaultPort = 18154;
-        nRPCPort = 18155;
+        nDefaultPort = 68157;
+        nRPCPort = 68158;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 20);
 
-        const char* pszTimestamp = "Eat like a penguin and swim like a banana";
+        const char* pszTimestamp = "Nova Altcoin";
         std::vector<CTxIn> vin;
         vin.resize(1);
         vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
         std::vector<CTxOut> vout;
         vout.resize(1);
         vout[0].SetEmpty();
-        CTransaction txNew(1, 1490904285, vin, vout, 0);
+        CTransaction txNew(1, 1505317524, vin, vout, 0);
         genesis.vtx.push_back(txNew);
         genesis.hashPrevBlock = 0;
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion = 1;
-        genesis.nTime    = 1490904285;
+        genesis.nTime    = 1505317524;
         genesis.nBits    = bnProofOfWorkLimit.GetCompact();
-        genesis.nNonce   = 1702465;
+        genesis.nNonce   = 692532;
  
- 
- 
+  
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0x00000d905bbbb5a24638a87d12f36033e50669f8e75cec2f737cb968c38e6ddc"));
-        assert(genesis.hashMerkleRoot == uint256("0xa54cbec479649b7bffa1859c3e46d131d2961a24a97589eedf20d88c6486e0d6"));
+        assert(hashGenesisBlock == uint256("0x0000098087c70438535d4856da93db37d0d5eaa76734138be4a0171d853e0219527e8"));
+        assert(genesis.hashMerkleRoot == uint256("0xb26b0d9f22b949160b467c6999d46e19fd77b4b0bff96f31ff27a03fa02a9ab1"));
  
-	vSeeds.push_back(CDNSSeedData("vsyncnode.servep2p.com", "vsyncnode1.servep2p.com"));
+	vSeeds.push_back(CDNSSeedData("adssyncnode.servep2p.com", "sfdvsyncnode1.servep2p.com"));
  
-        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 71); //V
-        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 132); //v
+        base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 73); //V
+        base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 135); //v
         base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1, 153);
         base58Prefixes[EXT_PUBLIC_KEY] = boost::assign::list_of(0x04)(0x88)(0xB2)(0x1E).convert_to_container<std::vector<unsigned char> >();
         base58Prefixes[EXT_SECRET_KEY] = boost::assign::list_of(0x04)(0x88)(0xAD)(0xE4).convert_to_container<std::vector<unsigned char> >();
