@@ -1,0 +1,9 @@
+Building Vsync
+
+See doc/readme-qt.rst for instructions on building Vsync QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Vsync.
+
+See doc/build-*.txt for instructions on building vsyncd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Vsync.

@@ -1,0 +1,5 @@
+vsync-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/vsync-qt.desktop usr/share/applications
+debian/vsync-qt.protocol usr/share/kde4/services/

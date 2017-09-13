@@ -1,0 +1,2 @@
+debian/bin/vsyncd usr/bin
+src/vsyncd usr/lib/vsync
