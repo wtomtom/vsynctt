@@ -20,29 +20,6 @@ struct SeedSpec6 {
  
 #include "chainparamsseeds.h"
 
-void MineGenesis(CBlock genesis){
-    // This will figure out a valid hash and Nonce if you're creating a different genesis block:
-    uint256 hashTarget = CBigNum().SetCompact(Params().ProofOfWorkLimit().GetCompact()).getuint256();
-    printf("Target: %s\n", hashTarget.GetHex().c_str());
-    uint256 newhash = genesis.GetHash();
-    uint256 besthash;
-    memset(&besthash,0xFF,32);
-    while (newhash > hashTarget) {
-    	++genesis.nNonce;
-        if (genesis.nNonce == 0){
-            printf("NONCE WRAPPED, incrementing time");
-            ++genesis.nTime;
-        }
-	newhash = genesis.GetHash();
-	if(newhash < besthash){
-	    besthash=newhash;
-	    printf("New best: %s\n", newhash.GetHex().c_str());
-	}
-    }
-    printf("Found Genesis, Nonce: %ld, Hash: %s\n", genesis.nNonce, genesis.GetHash().GetHex().c_str());
-    printf("Gensis Hash Merkle: %s\n", genesis.hashMerkleRoot.ToString().c_str());
-}
- 
 //
 // Main network
 //
@@ -81,28 +58,27 @@ public:
         nRPCPort = 68158;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 20);
 
-        const char* pszTimestamp = "Nova Altcoin";
+        const char* pszTimestamp = "Nova Altcoin V2";
         std::vector<CTxIn> vin;
         vin.resize(1);
         vin[0].scriptSig = CScript() << 0 << CBigNum(42) << vector<unsigned char>((const unsigned char*)pszTimestamp, (const unsigned char*)pszTimestamp + strlen(pszTimestamp));
         std::vector<CTxOut> vout;
         vout.resize(1);
         vout[0].SetEmpty();
-        CTransaction txNew(1, 1505317524, vin, vout, 0);
+        CTransaction txNew(1, 1505404699, vin, vout, 0);
         genesis.vtx.push_back(txNew);
         genesis.hashPrevBlock = 0;
         genesis.hashMerkleRoot = genesis.BuildMerkleTree();
         genesis.nVersion = 1;
-        genesis.nTime    = 1505317524;
+        genesis.nTime    = 1505404699;
         genesis.nBits    = bnProofOfWorkLimit.GetCompact();
-        genesis.nNonce   = 692532;
+        genesis.nNonce   = 275366;
  
-  
         hashGenesisBlock = genesis.GetHash();
-        assert(hashGenesisBlock == uint256("0x0000098087c70438535d4856da93db37d0d5eaa76734138be4a0171d853e0219527e8"));
-        assert(genesis.hashMerkleRoot == uint256("0xb26b0d9f22b949160b467c6999d46e19fd77b4b0bff96f31ff27a03fa02a9ab1"));
+        assert(hashGenesisBlock == uint256("0x00000cfa59337ed2515b54b2fce77b4aa8a637d9a2bee10ceff41258b3e234af"));
+        assert(genesis.hashMerkleRoot == uint256("0x1ea252adc491efed1d11d0072641ede467d7bd4f99911f39792c3e02b13d842b"));
  
-	vSeeds.push_back(CDNSSeedData("adssyncnode.servep2p.com", "sfdtomnode1.servep2p.com"));
+	vSeeds.push_back(CDNSSeedData("adssyncnode.servepda2p.com", "sfdtomnode1.servedasp2p.com"));
  
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 73); //V
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 135); //v
