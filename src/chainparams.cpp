@@ -54,8 +54,8 @@ public:
         pchMessageStart[2] = 0x24;
         pchMessageStart[3] = 0x12;
         vAlertPubKey = ParseHex("0419bce1bac0d543f104cbff2bd23680056a3b9ea05e1137d2ff90eeb5e08472eb500322593a2cb06fbf8297d7beb6cd30cb90f98153b5b7cce1493749e41e0284");
-        nDefaultPort = 68157;
-        nRPCPort = 68158;
+        nDefaultPort = 18157;
+        nRPCPort = 18158;
         bnProofOfWorkLimit = CBigNum(~uint256(0) >> 20);
 
         const char* pszTimestamp = "Nova Altcoin V2";
@@ -78,8 +78,8 @@ public:
         assert(hashGenesisBlock == uint256("0x00000cfa59337ed2515b54b2fce77b4aa8a637d9a2bee10ceff41258b3e234af"));
         assert(genesis.hashMerkleRoot == uint256("0x1ea252adc491efed1d11d0072641ede467d7bd4f99911f39792c3e02b13d842b"));
  
-	vSeeds.push_back(CDNSSeedData("adssyncnode.servepda2p.com", "sfdtomnode1.servedasp2p.com"));
- 
+	vSeeds.push_back(CDNSSeedData("192.168.0.18"));
+		
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 73); //V
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 135); //v
         base58Prefixes[SECRET_KEY] =     std::vector<unsigned char>(1, 153);
